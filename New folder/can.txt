@@ -1,0 +1,11 @@
+<div style="text-align: justify; color: #fff;">Bongo is derived from Bongo Land, the slang word for Tanzania. Made from purely organic and sustainable fresh products, our sauces are a must try.</div>
+
+<div>
+<div class="container mt-5 mb-5"><img class="img-responsive" style="width: 100%;" src="../media/front/images/comingsoon.png" alt="" /></div>
+</div>
+
+
+    width: 83%;
+    /* height: 234px; */
+    margin-top: 10px;
+    margin-bottom: 10px;
