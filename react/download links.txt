@@ -1,0 +1,16 @@
+<img class="img-responsive" style="width: 3%;" src="../media/uploads/images/icon.jpg" alt="" /> 
+
+
+
+<div>
+<h5>Air Fresheners</h5>
+<div class="ti" style="position: relative; top: -17px;">Paradise Catalogue 2023</div>
+<h1 class="iconn" style="margin-top: -41px;"><strong><a style="margin-left: 362px; display: block; font-size: .95rem; color: #ff1703;" href="../media/uploads/images/Paradise Catalogue 2023.pdf" target="_blank"> Download </a> </strong></h1>
+<h5 style="margin-top: 38px;">Nakamichi Car Audio</h5>
+<div class="ti" style="position: relative; top: -17px;">Nakamichi Car Audio Catalogue 2023</div>
+<h1 style="margin-top: -44px;"><strong><a style="margin-left: 362px; display: block; font-size: .99rem; color: #ff1703; /* padding-top: 84px;" href="../media/uploads/images/2023 Nakamichi Car Audio Catalog.pdf" target="_blank"> Download </a> </strong></h1>
+</div>
+
+
+style="margin-left: 336px; font-weight: bold;"
+"../media/uploads/images/rca1.jpg"
